@@ -99,7 +99,8 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Smit-05&theme=react-dark&hide_border=true&area=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smit-05&theme=dracula)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smit-05&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Smit-05&theme=dracula&utcOffset=8)
 
 <p align="center">
     <a href="https://github.com/">
