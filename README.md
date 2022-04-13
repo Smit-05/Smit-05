@@ -6,21 +6,21 @@
 
 
 
-## Who am I? 
-<!-- [![Profile views](https://komarev.com/ghpvc/?username=Smit-05&label=Profile%20views)](https://github.com/jaydeep-yadav) -->
+## ✌🏼 Who am I? 
+
 
 
  ```python
   class WhoAmI:
     user = 'Smit Padaliya'
 	current_edu = "Computer Engineering"
-    currently_learning = "Everything😋"
+    currently_learning = "Everything 😋"
     fun_fact = "I love Music"
 	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Movies'
+				'Music 🎶',
+                         'Chilling 😎',
+			 	'Gaming 🎮',
+				'Movies 🎬'
 			]
 	
 	def getCity():
@@ -41,7 +41,7 @@
 <!-- <img align="right" height="200px" width="500px" src="https://i.imgur.com/g0fixOT.jpg"> -->
 <!-- <a href="#"><img alt="" src=""></a> -->
 
-## Programming Languages
+## 🦾 Programming Languages
 
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"></a>
@@ -55,7 +55,7 @@
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue"></a>
 </p>
 
-## Frameworks, Platforms and Libraries
+## 💻 Frameworks, Platforms and Libraries
 <p>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"></a>
@@ -63,7 +63,7 @@
 	<a href="#"><img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"></a>
 </p>
 
-## Operating Systems
+## 🖥 Operating Systems
 <p>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
 	<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></a>
@@ -71,14 +71,14 @@
 	
 </p>
 
-## Browsers
+## 🔭 Browsers
 <p>
 	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
 	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
 </p>
 
-## Databases and Cloud hosting
+## 🏬 Databases and Cloud hosting
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
@@ -86,7 +86,7 @@
     <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white"></a>
 </p> 
 
-## Software and Tools
+## 🛠 Software and Tools
 <p>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"></a>
@@ -97,10 +97,14 @@
 </p>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Smit-05&theme=react-dark&hide_border=true&area=true)
+
+![](https://activity-graph.herokuapp.com/graph?username=Smit-05&theme=react-dark&hide_border=true&area=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smit-05&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smit-05&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Smit-05&theme=dracula&utcOffset=8)
+![](https://github-profile-trophy.vercel.app/?username=Smit-05&theme=dracula)	
+
+
 
 <p align="center">
     <a href="https://github.com/">
