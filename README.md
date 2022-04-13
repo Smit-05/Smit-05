@@ -102,8 +102,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smit-05&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smit-05&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Smit-05&theme=dracula&utcOffset=8)
-![](https://github-profile-trophy.vercel.app/?username=Smit-05&theme=dracula)	
-
+<!-- ![](https://github-profile-trophy.vercel.app/?username=Smit-05&theme=dracula)	 -->
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Smit-05&theme=dracula"></p>
 
 
 <p align="center">
