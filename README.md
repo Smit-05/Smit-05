@@ -14,7 +14,7 @@
   class WhoAmI:
     user = 'Smit Padaliya'
 	current_edu = "Computer Engineering"
-    currently_learning = "Everything 😋"
+    currently_learning = "BlockChain ⛓"
     fun_fact = "I love Music"
 	hobbies = [
 				'Music 🎶',
