@@ -1,10 +1,8 @@
 ![Github Banner](banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Smit;I+Love+Python+Programming;An+Open+Source+Enthusiast;Full+Stack+Web+Developer;Loves+To+Build+Projects;A+Problem+Solver;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Smit;An+Open+Source+Enthusiast;A+Melomaniac+🎧;Loves+To+Build+Projects;A+Problem+Solver;">
 </p>
-
-
 
 ## ✌🏼 Who am I? 
 
@@ -31,6 +29,10 @@
 		FinishMyProjects()
 	
  ```
+## 🎼Currently Listening
+<p align="center">
+	<img height="300" src="https://spotify-github-profile.vercel.app/api/view?uid=31gc5oh6eubp6dxisrj4lpgsjb4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+</p>
 
  
 ## 📈 Github Stats
