@@ -100,16 +100,19 @@
 
 
 
-![](https://activity-graph.herokuapp.com/graph?username=Smit-05&theme=react-dark&hide_border=true&area=true)
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=Smit-05&theme=react-dark&hide_border=true&area=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smit-05&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smit-05&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Smit-05&theme=dracula&utcOffset=8)
-<!-- ![](https://github-profile-trophy.vercel.app/?username=Smit-05&theme=dracula)	 -->
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Smit-05&theme=dracula"></p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Smit-05&theme=dracula&utcOffset=8) -->
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smit-05&theme=dracula"></p>
+<p align="center">
+<span><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smit-05&theme=dracula"></span>
+<span><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Smit-05&theme=dracula&utcOffset=8"></span>
+</p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Smit-05&theme=dracula"></span>
 
 <p align="center">
-    <a href="https://github.com/">
+    <a href="https://github.com/Smit-05">
         <img src="https://komarev.com/ghpvc/?username=Smit-05" alt="Smit-05" />
     </a>
     <a href="https://github.com/Smit-05">
