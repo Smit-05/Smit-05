@@ -37,7 +37,7 @@
  
 ## 📈 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Smit-05&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Smit-05&theme=blueberry_duo"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Smit-05&&show_icons=true&count_private=true&theme=dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Smit-05&theme=blueberry_duo"/>
 |---|---|
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/></p> -->
 <!-- <img align="right" height="200px" width="500px" src="https://i.imgur.com/g0fixOT.jpg"> -->
